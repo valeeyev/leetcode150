@@ -1,62 +1,60 @@
-Top 150 LeetCode Interview Questions Challenge (C++ Solutions)
+
+# Top 150 LeetCode Interview Questions Challenge (C++ Solutions)
 
 Welcome to the Top 150 LeetCode Interview Questions Challenge repository! This repo contains solutions to some of the most frequently asked coding interview questions on LeetCode, written in C++. These problems are essential for preparing for technical interviews, and they cover key algorithms and data structures.
 
-🔥 Challenge Overview
+
+## 🔥 Challenge Overview
 This repository focuses on solving the most essential LeetCode problems that are commonly asked in technical interviews. The problems will help you develop a deeper understanding of various algorithms, data structures, and C++ concepts.
 
 Categories of Problems:
-Array
-String
-Linked List
-Tree
-Dynamic Programming
-Graph
-Binary Search
-Greedy
-Backtracking
-Heap/Priority Queue
-Bit Manipulation
-Two Pointers
-Sliding Window
-📈 Difficulty Levels:
+
+1. Array
+2. String
+3. Linked List 
+4. Tree
+5. Dynamic Programming
+6. Graph
+7. Binary Search
+8. Greedy
+9. Backtracking
+10. Heap/Priority Queue
+11. Bit Manipulation
+12. Two Pointers
+13. Sliding Window
+## 📈 Difficulty Levels:
+
 🟢 Easy
 🟡 Medium
 🔴 Hard
-📋 List of Problems
-#	Problem Name	Difficulty	Solution
-1	Two Sum	🟢 Easy	C++
-2	Add Two Numbers	🟡 Medium	C++
-3	Longest Substring Without Repeating Characters	🟡 Medium	C++
-4	Median of Two Sorted Arrays	🔴 Hard	C++
-...	...	...	...
-(Add the remaining problems in this format.)
-
-🛠️ Solution Strategy
+## 🛠️ Solution Strategy
 Each problem is solved using the most efficient and optimal approach in C++. Here are some key techniques employed:
 
-Brute Force: Solving through exhaustive methods.
-Divide & Conquer: For problems like binary search and merge sort.
-Dynamic Programming: For optimization problems.
-Greedy Algorithms: For problems requiring local optimizations.
-Backtracking: For exploring all possible solutions efficiently.
-🚀 How to Use
-Clone this repository:
+-Brute Force: Solving through exhaustive methods.
 
-bash
-Copy code
-git clone https://github.com/your-username/leetcode-150-challenge-cpp.git
-cd leetcode-150-challenge-cpp
-Compile a solution using a C++ compiler:
+-Divide & Conquer: For problems like binary search and merge sort.
 
-bash
-Copy code
+-Dynamic Programming: For optimization problems.
+
+-Greedy Algorithms: For problems requiring local optimizations.
+
+-Backtracking: For exploring all possible solutions efficiently.
+## 🚀 How to Use
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/valeeyev/leetcode150.git
+cd leetcode150
+```
+2. Compile a solution using a C++ compiler:
+
+```
 g++ solutions/two_sum.cpp -o two_sum
 ./two_sum
-Check out the detailed solution explanations within the code comments.
 
-📝 Contribution
+```
+## 📝 Contribution
+
 Feel free to contribute by opening issues or submitting pull requests! Let's help each other grow by learning from every problem.
-
-Good luck with your coding interview preparation! 🚀
-
+## Good luck with your coding interview preparation! 🚀
